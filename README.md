@@ -1,2 +1,2 @@
 # JundiPrayudi.github.io
-test
+Pendalaman html css js 
